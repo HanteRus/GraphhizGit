@@ -1,0 +1,6 @@
+{
+    "graphviz_path": "Graphviz/bin/dot",
+    "repo_path": "git_repo",
+    "output_path": "graph.dot",
+    "target_file": "README.md"
+}
